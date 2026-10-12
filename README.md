@@ -32,4 +32,4 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 **Note:** The dataset, trained model files, and `requirements.txt` are not currently included in this repository.
 
 ## Disclaimer
-This project is intended for educational and research purposes only. It is not a medical diagnostic tool and should not be used to make medical decisions.
+The dataset and trained model files are not included in this repository. The trained model must be obtained separately before running the application.
